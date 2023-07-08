@@ -1,0 +1,3 @@
+name: EnchantsPrism
+version: '${project.version}'
+main: me.kylebomb.enchantsprism.EnchantsPrism
