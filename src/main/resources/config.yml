@@ -1,0 +1,927 @@
+MainGUITitle: '&8Enchants Menu'
+
+MeleeOptionTitle: '&4✦ &c&nMelee Enchants&4 ✦'
+BowOptionTitle: '&6✦ &e&nBow Enchants&6 ✦'
+ShieldOptionTitle: '&2✦ &a&nShield Enchants&2 ✦'
+ArmorOptionTitle: '&9✦ &b&nArmor Enchants&9 ✦'
+
+MeleeGUITitle: 'Enchants'
+BowGUITitle: 'Enchants'
+ShieldGUITitle: 'Enchants'
+ArmorGUITitle: 'Enchants'
+
+InfoBook:
+  name: 'Info'
+  lore:
+    - '&4yes'
+    - '&6no'
+
+GoBackName: '&8Go Back'
+
+
+MeleeEnchants:
+  1:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - '&2yes'
+      - '&9no'
+  2:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  3:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  4:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  5:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  6:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  7:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  8:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  9:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  10:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  11:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  12:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  13:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  14:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  15:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  16:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  17:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  18:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  19:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  20:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  21:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  22:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  23:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  24:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  25:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  26:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  27:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  28:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+
+
+BowEnchants:
+  1:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - '&2yes'
+      - '&9no'
+  2:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  3:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  4:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  5:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  6:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  7:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  8:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  9:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  10:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  11:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  12:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  13:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  14:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  15:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  16:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  17:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  18:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  19:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  20:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  21:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  22:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  23:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  24:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  25:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  26:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  27:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  28:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+
+
+ShieldEnchants:
+  1:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - '&2yes'
+      - '&9no'
+  2:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  3:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  4:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  5:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  6:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  7:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  8:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  9:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  10:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  11:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  12:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  13:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  14:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  15:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  16:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  17:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  18:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  19:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  20:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  21:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  22:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  23:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  24:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  25:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  26:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  27:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  28:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+
+
+ArmorEnchants:
+  1:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - '&2yes'
+      - '&9no'
+  2:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  3:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  4:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  5:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  6:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  7:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  8:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  9:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  10:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  11:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  12:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  13:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  14:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  15:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  16:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  17:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  18:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  19:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  20:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  21:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  22:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  23:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  24:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  25:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  26:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  27:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'
+  28:
+    enabled: true
+    item: 'diamond_sword'
+    name: 'Headhunter'
+    enchantGlint: false
+    lore:
+      - 'yes'
+      - 'no'

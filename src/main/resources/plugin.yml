@@ -1,3 +1,6 @@
 name: EnchantsPrism
 version: '${project.version}'
 main: me.kylebomb.enchantsprism.EnchantsPrism
+commands:
+  enchants:
+    description: Open the enchants GUI.
